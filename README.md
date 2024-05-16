@@ -15,9 +15,9 @@
 
 <div align=center>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f48494&color:FFF)](mailto:anna.psmatos2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f48494&color:FFF)](https://www.linkedin.com/in/annamatos-/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=f48494&color:FFF)](https://www.instagram.com/anna.matoos2/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3833b8&color:FFF)](mailto:anna.psmatos2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3833b8&color:FFF)](https://www.linkedin.com/in/annamatos-/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3833b8&color:FFF)](https://www.instagram.com/anna.matoos2/)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ## My skills!
 
-![Javascript](https://img.shields.io/badge/JavaScript-f4bcbc?style=for-the-badge&logo=javascript&logoColor=673c75)
+![Javascript](https://img.shields.io/badge/JavaScript-f4bcbc?style=for-the-badge&logo=javascript&logoColor=3833b8)
 ![HTML](https://img.shields.io/badge/HTML5-152e48?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-d74455?&style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,7 +65,7 @@
 ### and i'm learning . . .
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-f4bcbc?style=for-the-badge&logo=javascript&logoColor=673c75)
+![Javascript](https://img.shields.io/badge/JavaScript-f4bcbc?style=for-the-badge&logo=javascript&logoColor=3833b8)
 
 <br/>
 
@@ -75,7 +75,7 @@
 <br/>
 
 <a> 
-  <a href="https://github.com/annamatos"><img alt="Anna Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=annamatos&show_icons=true&count_private=true&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/annamatos"><img alt="Anna Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=annamatos&langs_count=8&layout=compact&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/annamatos"><img alt="Anna Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=annamatos&show_icons=true&count_private=true&theme=react&border_color=91215a&bg_color=0D1117&title_color=3833b8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/annamatos"><img alt="Anna Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=annamatos&langs_count=8&layout=compact&theme=react&border_color=91215a&bg_color=0D1117&title_color=3833b8&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
