@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=F4BCC4&center=true&vCenter=true&random=false&width=435&lines=%E2%8A%B9+Hello%2C+welcome+to+my+profile!+%E2%99%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=#0947ab&center=true&vCenter=true&random=false&width=435&lines=%E2%8A%B9+Hello%2C+welcome+to+my+profile!+%E2%99%A1" alt="Typing SVG" /></a>
 </div>
 
 
@@ -27,7 +27,6 @@
  # About me!
  
 <p>
- <img align="right" width="250" src="https://i.pinimg.com/originals/d5/8a/df/d58adf5bc33ead140a8a0c707456de91.gif" alt="Sylveon gif" />
   <br />
  📚 &emsp; Analysis and systems development student at @<a target="_blank" href="https://www.sptech.school">Sao Paulo tech School</a> <br/><br/>
  🏬 &emsp; Working at Aditum as a Support & Sustainment Analyst <br/><br/>
@@ -65,6 +64,8 @@
 
 ### and i'm learning . . .
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-f4bcbc?style=for-the-badge&logo=javascript&logoColor=673c75)
 
 <br/>
 
@@ -74,7 +75,7 @@
 <br/>
 
 <a> 
-    <a href="https://github.com/annamatos"><img alt="Anna Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=annamatos&show_icons=true&count_private=true&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/annamatos"><img alt="Anna Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=annamatos&show_icons=true&count_private=true&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/annamatos"><img alt="Anna Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=annamatos&langs_count=8&layout=compact&theme=react&border_color=91215a&bg_color=0D1117&title_color=f48494&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
